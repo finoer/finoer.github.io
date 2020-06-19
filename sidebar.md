@@ -1,6 +1,0 @@
-- Getting started
-  - [Home](home.md)
-  - [Use](use.md)
-- Customization
-  - [Home2](home.md)
-  - [Use2](use.md)
