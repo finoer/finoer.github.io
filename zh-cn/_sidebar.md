@@ -1,15 +1,27 @@
 - 开始
+  
+  - 简介
+    - [介绍](zh-cn/)
+    - [安装](zh-cn/installation.md)
 
-  - [简介](zh-cn/)
-  - [使用](zh-cn/usages.md)
+
+  - 使用
+    - [invoke](zh-cn/use.md)
+    - [store](zh-cn/use.md)
+    - [lib](zh-cn/use.md)
 
   - 设计文档
-    - [Finoer](zh-cn/installation.md)
-    - [Finoer核心包](zh-cn/finoer-packages.md)
+    - [整体架构](zh-cn/design.md)
+    - [项目](zh-cn/project.md)
+    - [invoke](zh-cn/invoke-design.md)
+    - [store](zh-cn/store-design.md)
+    - [sandbox](zh-cn/sandbox-design.md)
+    - [router](zh-cn/router-design.md)
 
-- 编写 Markdown1
-  - [Markdown 基本要素](zh-cn/markdown-basics.md)
 
+  - [如何开发](zh-cn/develop.md)
+  
+ 
 - Credits
 
   - [Backers](backers.md)
