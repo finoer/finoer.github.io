@@ -6,9 +6,8 @@
 
 
   - 使用
-    - [invoke](zh-cn/use.md)
-    - [store](zh-cn/use.md)
-    - [lib](zh-cn/use.md)
+    - [invoke](zh-cn/invoke-api.md)
+    - [store](zh-cn/store-api.md)
 
   - 设计文档
     - [整体架构](zh-cn/design.md)
@@ -20,6 +19,7 @@
 
 
   - [如何开发](zh-cn/develop.md)
+  - [如何调试](zh-cn/debug.md)
   
  
 - Credits
