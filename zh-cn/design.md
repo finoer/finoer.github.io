@@ -2,7 +2,13 @@
 
 首先fino由以下几个模块组成
 
-![image-20210920110048196](https://tva1.sinaimg.cn/large/008i3skNly1gumwtrrt1xj60we0e8tac02.jpg)
+![image-20210922151512656](https://tva1.sinaimg.cn/large/008i3skNly1gupfft4tylj60ro0amab402.jpg)
+
+其中数据模块和调度模块：
+
+![image-20210922151548394](https://tva1.sinaimg.cn/large/008i3skNly1gupffpxjjyj60rm0bm0tv02.jpg)
+
+
 
 那么这些模块是怎么协调运作的呢？
 
