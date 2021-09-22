@@ -12,7 +12,7 @@
   - [Thanks](thanks.md)
 - [FAQ](faq.md)
 - Changelog
-  - Finoer
+  - Fino
     - [Newest](newest.md)
     - [History](history.md)
 - [License](LICENSE.md)

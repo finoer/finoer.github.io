@@ -1,6 +1,6 @@
 # 安装
 
-## npm安装
+## 单独使用其中的某一个包
 
 ### <span style="color:#4ba8c9">finoer-invoke</span>
 

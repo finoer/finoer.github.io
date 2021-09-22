@@ -2,6 +2,7 @@
   
   - 简介
     - [介绍](zh-cn/)
+    - [如何接入](zh-cn/use.md)
     - [安装](zh-cn/installation.md)
 
 

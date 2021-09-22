@@ -2,7 +2,7 @@
 
 首先fino由以下几个模块组成
 
-![](https://tva1.sinaimg.cn/large/008i3skNly1gpzbeljmavj308i06ymxp.jpg)
+![image-20210920110048196](https://tva1.sinaimg.cn/large/008i3skNly1gumwtrrt1xj60we0e8tac02.jpg)
 
 那么这些模块是怎么协调运作的呢？
 
